@@ -5,7 +5,7 @@ tags: []
 
 # 🧠 BCI-Based Autonomous Vehicle using Arduino Mega
 
-![image](docs/architecture.png)
+![image](Docs/architecture.png)
 
 ## 🚀 Overview
 
@@ -283,13 +283,13 @@ Arduino IDE
 
 Open:
 
-```text
+```
 firmware/main/main.ino
 ```
 
 Upload to:
 
-```text
+```
 Arduino Mega 2560
 ```
 
@@ -316,7 +316,7 @@ Arduino Mega 2560
 
 ## Circuit Diagram
 
-![Circuit](docs/circuit.png)
+![Circuit](Docs/circuit.png)
 
 ## Prototype
 
