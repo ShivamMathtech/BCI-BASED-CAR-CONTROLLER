@@ -272,7 +272,7 @@ else
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/BCI-Autonomous-Vehicle.git
+git clone https://github.com/ShivamMathtech/BCI-BASED-CAR-CONTROLLER
 ```
 
 ## Open Project
