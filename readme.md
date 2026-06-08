@@ -5,7 +5,7 @@ tags: []
 
 # 🧠 BCI-Based Autonomous Vehicle using Arduino Mega
 
-![Project_Banner](docs/architecture.png)
+![image](docs/architecture.png)
 
 ## 🚀 Overview
 
