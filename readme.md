@@ -42,7 +42,7 @@ The vehicle receives high-level commands from a NeuroSky MindWave headset while 
 
 ## 🏗 System Architecture
 
-```text
+```
 Human Brain
      │
      ▼
@@ -144,7 +144,7 @@ GPS MPU6050     Ultrasonic Array
 
 # 📂 Project Structure
 
-```text
+```
 BCI_Autonomous_Vehicle/
 │
 ├── firmware/
