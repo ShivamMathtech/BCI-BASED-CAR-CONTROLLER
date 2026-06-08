@@ -1,0 +1,10 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define SAFE_DISTANCE 30
+#define MOTOR_SPEED 180
+
+#define ATTENTION_THRESHOLD 70
+#define MEDITATION_THRESHOLD 80
+
+#endif
